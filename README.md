@@ -1,20 +1,22 @@
-<!-- 🪐 3D Galaxy Themed GitHub Profile for @apraxd -->
-
-<!-- 🌌 3D Galaxy Banner -->
+<!-- 🌌 Animated Galaxy Banner -->
 <p align="center">
+  <!-- Replace with your GIF banner if available -->
   <img src="https://github.com/apraxd/apraxd/blob/main/assets/Lucid_Origin_3D_galaxy_banner_the_text_APRAXD__Turning_Crazy_I_2.jpg?raw=true" width="100%" alt="3D Galaxy Banner - Apraxd"/>
 </p>
 
+<!-- 💫 Flickering Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&pause=500&color=00C2FF&center=true&vCenter=true&width=750&lines=Turning+Crazy+Ideas+Into+Code;Building+Things+That+Make+People+Say+WOW;Exploring+3D,+Animation,+and+Tech" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2800&pause=400&color=00C2FF&center=true&vCenter=true&width=750&lines=Creating+the+Future...;In+Real+Time;Turning+Crazy+Ideas+Into+Code;Making+the+Web+Feel+Alive+🌌" alt="Typing Animation"/>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:00C2FF,100:6E00FF&height=100&section=header&animation=twinkling" width="100%">
 
 ---
 
 ### 🚀 About Me
 🎨 Creative developer blending **art, motion, and code** to craft futuristic web experiences.  
 💫 Passionate about **React**, **Three.js**, and interactive visuals.  
-⚙️ Exploring **Node.js**, **Docker**, and **automation**.  
+⚙️ Exploring **Node.js**, **Docker**, and **automation pipelines**.  
 🎬 Designing with **After Effects**, **Canva**, and **VS Code**.  
 🧠 Motto: *“If it looks impossible — I’ll find a way to code it.”*
 
@@ -40,12 +42,23 @@
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:6E00FF,100:00C2FF&height=100&section=header&animation=twinkling" width="100%">
+
+---
+
+### 🪄 Animated Space Break
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD4G7Vg9Wq5krfO/giphy.gif" width="80%" alt="Animated Galaxy GIF">
+</p>
+
 ---
 
 ### 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/apraxd/apraxd/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:6E00FF,100:00C2FF&height=100&section=header&animation=twinkling" width="100%">
 
 ---
 
@@ -68,6 +81,8 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=apraxd&theme=radical&hide_border=true&background=000000&ring=6E00FF&fire=00C2FF&currStreakLabel=ffffff"/>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:6E00FF,100:00C2FF&height=100&section=header&animation=twinkling" width="100%">
 
 ---
 
