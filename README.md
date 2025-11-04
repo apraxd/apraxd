@@ -1,7 +1,8 @@
+<!-- 🪐 3D Galaxy Themed GitHub Profile for @apraxd -->
+
 <!-- 🌌 3D Galaxy Banner -->
 <p align="center">
-  <!-- Replace the link below with your generated banner -->
-  <img src="https://github.com/apraxd/apraxd/blob/main/assets/space-banner.gif?raw=true" width="100%" alt="3D Galaxy Banner - Apraxd"/>
+  <img src="https://github.com/apraxd/apraxd/blob/main/assets/Lucid_Origin_3D_galaxy_banner_the_text_APRAXD__Turning_Crazy_I_2.jpg?raw=true" width="100%" alt="3D Galaxy Banner - Apraxd"/>
 </p>
 
 <p align="center">
@@ -42,21 +43,20 @@
 ---
 
 ### 🐍 Contribution Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/apraxd/apraxd/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
 
-### 📈 GitHub Activity Graph (3-D Style)
+### 📈 GitHub Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=apraxd&theme=react-dark&bg_color=000000&color=00C2FF&line=6E00FF&point=ffffff&area=true&hide_border=true" width="100%">
 </p>
 
 ---
 
-### ⚙️ Developer Metrics (Neon Style)
+### ⚙️ Developer Metrics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=apraxd&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00C2FF&icon_color=6E00FF"/>
 </p>
@@ -74,13 +74,6 @@
 ### 🏆 Trophy Wall
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=apraxd&theme=radical&no-frame=true&no-bg=true&column=7" width="100%"/>
-</p>
-
----
-
-### 🎧 Coding Playlist
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=6E00FF&center=true&vCenter=true&width=600&lines=🎧+Lo-fi+Beats;🌌+Space+Ambient;💻+Chill+Code+Sessions" alt="Music typing animation"/>
 </p>
 
 ---
