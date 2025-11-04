@@ -1,3 +1,11 @@
+<!-- ⚡ Ultimate Futuristic GitHub Profile README for @apraxd -->
+
+<!-- 🔥 Optional animated GIF banner (replace the link below with your own) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%" alt="animated banner"/>
+</p>
+
+<!-- 🌊 Animated Wave Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6E00FF&height=180&section=header&text=Hey%20👋%20I'm%20apraxd!&fontSize=42&fontAlignY=35&fontColor=ffffff" width="100%"/>
 
 <h3 align="center">💡 Turning crazy ideas into code and building things that make people say <i>“wow.”</i></h3>
@@ -10,11 +18,11 @@
 
 ### 🚀 About Me
 
-🎨 Creative developer blending **art, motion, and engineering** into immersive experiences.  
-🧠 Passionate about **3D web development**, **motion design**, and the magic of **interactivity**.  
-💻 Exploring the sweet spot between **React**, **Three.js**, **Node.js**, and **After Effects**.  
-⚙️ Experimenting with **Docker**, **Kubernetes**, and creative automation.  
-☕ Fueled by curiosity, clean code, and a bit too much caffeine.
+🎨 Creative developer blending **art, motion, and engineering** into immersive web experiences.  
+🧠 Passionate about **3D web development**, **motion design**, and **creative coding**.  
+💻 Exploring **React**, **Three.js**, **Node.js**, and **After Effects** to merge visuals with code.  
+⚙️ Experimenting with **Docker**, **Kubernetes**, and **automation** to scale creative projects.  
+☕ Fueled by curiosity, caffeine, and clean design.
 
 ---
 
@@ -43,9 +51,9 @@
 ### ⚡ Current Focus
 
 🧩 Building immersive **3D web experiences** with **React + Three.js**  
-🎬 Blending **motion design** and **real-time code** using After Effects & web tech  
-🌐 Exploring **creative automation** with **Docker** & **Node.js**  
-🚀 Always learning, creating, and pushing the limits of what’s possible
+🎬 Blending **motion design** & **real-time visuals** using **After Effects**  
+🌐 Exploring **creative automation** using **Docker** & **Node.js**  
+🚀 Always learning, creating, and pushing what’s possible on the web  
 
 ---
 
@@ -61,14 +69,11 @@
 
 ---
 
-### 🧩 Contribution Snake
+### 🧩 Contribution Snake 🐍
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/apraxd/apraxd/output/github-contribution-grid-snake.svg" alt="3D Snake Animation" />
+</p>
 
 ---
 
@@ -77,9 +82,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/apraxd/profile-3d-contrib/main/profile-night-rainbow.svg" width="100%"/>
 </p>
-
-> 💡 Use [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) to generate this.  
-> It turns your contributions into a glowing voxel-style 3D landscape 🧊.
 
 ---
 
@@ -118,9 +120,3 @@
 </p>
 
 ---
-
-### 🎵 Bonus: (optional when ready)
-You can add this later — a **Now Playing** card for your Spotify 🎧  
-
-```markdown
-[![Spotify](https://novatorem.apraxd.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
