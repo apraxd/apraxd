@@ -1,32 +1,36 @@
-<!-- 💠 3-D Gradient Header -->
+<!-- 🌌 3D Galaxy Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:6E00FF,100:00C2FF&height=220&section=header&text=👾%20Apraxd%20in%203D%20Space!&fontSize=45&fontAlignY=38&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+  <!-- Replace the link below with your generated banner -->
+  <img src="https://github.com/apraxd/apraxd/blob/main/assets/space-banner.gif?raw=true" width="100%" alt="3D Galaxy Banner - Apraxd"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=500&color=00C2FF&center=true&vCenter=true&width=750&lines=🚀+Turning+Crazy+Ideas+into+Code+;🪄+Building+Things+that+make+People+say+WOW;💫+Merging+Art,+Motion,+and+Tech" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&pause=500&color=00C2FF&center=true&vCenter=true&width=750&lines=Turning+Crazy+Ideas+Into+Code;Building+Things+That+Make+People+Say+WOW;Exploring+3D,+Animation,+and+Tech" alt="Typing Animation"/>
 </p>
 
 ---
 
-### 🧠 About Me
-🎨 **Creative Developer** focused on immersive and futuristic web experiences.  
-⚡ Combining **React + Three.js + Motion Design** to make the web feel alive.  
-🧩 Passion for **UI animations**, **3-D storytelling**, and **code art**.  
-🛠️ Exploring **Docker**, **Kubernetes**, and **automation pipelines** to scale creativity.  
+### 🚀 About Me
+🎨 Creative developer blending **art, motion, and code** to craft futuristic web experiences.  
+💫 Passionate about **React**, **Three.js**, and interactive visuals.  
+⚙️ Exploring **Node.js**, **Docker**, and **automation**.  
+🎬 Designing with **After Effects**, **Canva**, and **VS Code**.  
+🧠 Motto: *“If it looks impossible — I’ll find a way to code it.”*
 
 ---
 
-### 🧩 Tech Universe
+### 🧠 Tech Universe
 
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python)
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react)
 ![Three.js](https://img.shields.io/badge/-Three.js-0D1117?style=for-the-badge&logo=three.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js)
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python)
+![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3)
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-0D1117?style=for-the-badge&logo=kubernetes)
 ![After Effects](https://img.shields.io/badge/-After%20Effects-0D1117?style=for-the-badge&logo=adobeaftereffects)
@@ -37,14 +41,15 @@
 
 ---
 
-### 🪄 Animated Contribution Snake 🐍
+### 🐍 Contribution Snake
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/apraxd/apraxd/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
 
-### 🎢 3-D-Style GitHub Activity Graph
+### 📈 GitHub Activity Graph (3-D Style)
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=apraxd&theme=react-dark&bg_color=000000&color=00C2FF&line=6E00FF&point=ffffff&area=true&hide_border=true" width="100%">
 </p>
@@ -52,7 +57,6 @@
 ---
 
 ### ⚙️ Developer Metrics (Neon Style)
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=apraxd&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00C2FF&icon_color=6E00FF"/>
 </p>
@@ -67,26 +71,19 @@
 
 ---
 
-### 🏆 3-D Trophy Wall
+### 🏆 Trophy Wall
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=apraxd&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=apraxd&theme=radical&no-frame=true&no-bg=true&column=7" width="100%"/>
 </p>
 
 ---
 
-### 🌀 Animated Parallax Banner (GIF)
+### 🎧 Coding Playlist
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD4G7Vg9Wq5krfO/giphy.gif" width="90%" alt="3D animation banner"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=6E00FF&center=true&vCenter=true&width=600&lines=🎧+Lo-fi+Beats;🌌+Space+Ambient;💻+Chill+Code+Sessions" alt="Music typing animation"/>
 </p>
 
 ---
 
-### 🎧 Vibe While Coding
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=6E00FF&center=true&vCenter=true&width=600&lines=🎧+Lo-fi+Beats;🎸+Synthwave;💻+Chill+Code+Sessions" alt="Music typing animation"/>
-</p>
-
----
-
-### 🌈 Aesthetic Footer Wave
+### 🌈 Footer Wave
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E00FF,100:00C2FF&height=120&section=footer" width="100%"/>
