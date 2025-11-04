@@ -1,6 +1,6 @@
 <!-- 🌌 Animated Galaxy Banner -->
 <p align="center">
-  <!-- Replace with your GIF banner if available -->
+  <!-- Replace with your GIF banner if you later make one -->
   <img src="https://github.com/apraxd/apraxd/blob/main/assets/Lucid_Origin_3D_galaxy_banner_the_text_APRAXD__Turning_Crazy_I_2.jpg?raw=true" width="100%" alt="3D Galaxy Banner - Apraxd"/>
 </p>
 
@@ -48,7 +48,7 @@
 
 ### 🪄 Animated Space Break
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD4G7Vg9Wq5krfO/giphy.gif" width="80%" alt="Animated Galaxy GIF">
+  <img src="https://media.tenor.com/YW-ZN3v7qcoAAAAC/stars-galaxy.gif" width="80%" alt="Animated Galaxy GIF">
 </p>
 
 ---
