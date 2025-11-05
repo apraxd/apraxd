@@ -1,6 +1,6 @@
 <!-- 🌌 Futuristic Banner -->
 <p align="center">
-  <img src="https://i.gifer.com/6vIk.gif" alt="Creative Tech Banner" width="100%" />
+  <img src="https://i.gifer.com/3rCC.gif" alt="Creative Tech Banner" width="100%" />
 </p>
 
 <p align="center">
