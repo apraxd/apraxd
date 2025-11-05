@@ -1,114 +1,29 @@
-<!-- 🌌 Floating Logo Hologram -->
-<p align="center">
-  <img src="https://github.com/apraxd/apraxd/blob/main/assets/rotating-apraxd.gif?raw=true" width="55%" alt="Rotating Holographic Logo">
-</p>
+# 💫 About Me:
+🔭 Working on: immersive 3D web worlds & reactive interfaces  <br>👯 Collaborating on: creative tech, generative visuals, & motion experiments  <br>🤝 Seeking help with: building tools that blend art + AI  <br>🌱 Learning: shaders, WebGPU, and audiovisual interactivity  <br>💬 Ask me about: creative coding, animation, and futuristic UI design  <br>⚡ Fun fact: I treat code like choreography — every pixel moves with purpose.
 
-<!-- 🔮 Typing Matrix -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=600&color=00C2FF&center=true&vCenter=true&width=850&lines=👾+Immersive+Code+Architect;💡+Building+Neon+Interfaces;🌌+Crafting+3D+Experiences;⚡+Coding+to+the+Pulse+of+the+Future;" />
-</p>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:00C2FF,100:6E00FF&height=100&section=header&animation=twinkling" width="100%">
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/apraxd) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:apratimextra@gmail.com) 
 
----
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Square Enix](https://img.shields.io/badge/SquareEnix-%23ED1C24.svg?style=for-the-badge&logo=SquareEnix&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=apraxd&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=apraxd&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=apraxd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🧬 Who Is *apraxd*?
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=apraxd&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-> *“Every frame. Every pixel. Every loop — coded with purpose.”*
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-🎭 Creator of **visually reactive** web worlds  
-🎧 Builds **audio-synced motion interfaces**  
-🧠 Thinks in **shaders, light, and flowfields**  
-🪩 Fuses **art, animation, and algorithmic design**  
-💥 Motto: *“If it looks alive, I’ve already coded it.”*
-
----
-
-### 💎 The Holographic Stack
-
-<div align="center">
-
-<!-- Custom 3D Gradient Badges -->
-<img src="https://img.shields.io/badge/React-%2300C2FF.svg?style=for-the-badge&logo=react&logoColor=white&labelColor=000000&color=6E00FF" alt="React"/>
-<img src="https://img.shields.io/badge/Three.js-%2300C2FF.svg?style=for-the-badge&logo=three.js&logoColor=white&labelColor=000000&color=6E00FF" alt="Three.js"/>
-<img src="https://img.shields.io/badge/Node.js-%2300C2FF.svg?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000&color=6E00FF" alt="Node.js"/>
-<img src="https://img.shields.io/badge/TypeScript-%2300C2FF.svg?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000&color=6E00FF" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/Python-%2300C2FF.svg?style=for-the-badge&logo=python&logoColor=white&labelColor=000000&color=6E00FF" alt="Python"/>
-<img src="https://img.shields.io/badge/Docker-%2300C2FF.svg?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000&color=6E00FF" alt="Docker"/>
-<img src="https://img.shields.io/badge/Kubernetes-%2300C2FF.svg?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=000000&color=6E00FF" alt="Kubernetes"/>
-<img src="https://img.shields.io/badge/After%20Effects-%2300C2FF.svg?style=for-the-badge&logo=adobeaftereffects&logoColor=white&labelColor=000000&color=6E00FF" alt="After Effects"/>
-<img src="https://img.shields.io/badge/VS%20Code-%2300C2FF.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=000000&color=6E00FF" alt="VS Code"/>
-
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=apraxd&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
-### 🎧 Sound-Reactive Visual Pulse
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKxOhpdvXZ3XqO0/giphy.gif" width="90%" alt="Sound Reactive Pulse"/>
-</p>
-
-> *The universe has rhythm — so does your code.*
-
----
-
-### 🐍 Contribution Flow
+[![](https://visitcount.itsvg.in/api?id=apraxd&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/apraxd/apraxd/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation"/>
-</p>
-
----
-
-### 📊 Reality Metrics Dashboard
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=apraxd&theme=react-dark&bg_color=000000&color=00C2FF&line=6E00FF&point=FFFFFF&area=true&hide_border=true" width="100%">
-</p>
-
-<div align="center">
-
-| ⚡ Stats | 🔥 Streak | 💻 Top Languages |
-|:--:|:--:|:--:|
-| <img src="https://github-readme-stats.vercel.app/api?username=apraxd&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00C2FF&icon_color=6E00FF" width="100%"> | <img src="https://streak-stats.demolab.com?user=apraxd&theme=radical&hide_border=true&background=000000&ring=6E00FF&fire=00C2FF&currStreakLabel=ffffff" width="100%"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apraxd&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=00C2FF" width="100%"> |
-
-</div>
-
----
-
-### 🏆 Trophy Constellation
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=apraxd&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="100%"/>
-</p>
-
----
-
-### 💠 Experimental Labs
-
-💡 **Hidden Realms**  
-- `/labs` → prototypes, shaders, & motion experiments  
-- `/artifacts` → generative visuals & glitch tests  
-- `/audio-reactive` → sound-synced motion UIs  
-
-🧩 *Hint:* some READMEs hide **interactive Easter eggs** 🌀
-
----
-
-### 🛸 Connect With The Creator
-
-<p align="center">
-  <a href="https://github.com/apraxd"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github"></a>
-  <a href="https://www.linkedin.com/in/apraxd"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://twitter.com/apraxd"><img src="https://img.shields.io/badge/X(Twitter)-0A0A0A?style=for-the-badge&logo=x"></a>
-  <a href="https://apraxd.dev"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel"></a>
-</p>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E00FF,100:00C2FF&height=120&section=footer&animation=twinkling" width="100%">
-
-<p align="center">
-  <i>“The web is my canvas — and every pixel has a pulse.”</i> 🌐
 </p>
