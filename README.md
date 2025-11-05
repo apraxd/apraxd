@@ -1,8 +1,3 @@
-<!-- 🚀 Animated Galaxy Banner -->
-<p align="center">
-  <img src="https://github.com/apraxd/apraxd/blob/main/assets/Lucid_Origin_3D_galaxy_banner_the_text_APRAXD__Turning_Crazy_I_2.jpg?raw=true" width="100%" alt="Galaxy Banner"/>
-</p>
-
 <!-- 🪩 Rotating Hologram Name -->
 <p align="center">
   <img src="https://github.com/apraxd/apraxd/blob/main/assets/rotating-apraxd.gif?raw=true" width="60%" alt="Rotating Apraxd Hologram"/>
