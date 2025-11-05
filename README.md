@@ -1,4 +1,3 @@
-<!-- 🌌 Futuristic Banner (you can replace the GIF link below with your own) -->
 <p align="center">
   <img src="https://i.gifer.com/6vIk.gif" alt="Creative Tech Banner" width="100%" />
 </p>
@@ -58,6 +57,16 @@
 
 ---
 
+## 🤖 AI Tools  
+Exploring the frontier where creativity meets intelligence.  
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-%2300A67E.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-%230056E0.svg?style=for-the-badge&logo=google&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-%233A86FF.svg?style=for-the-badge&logoColor=white)
+
+---
+
 ## 🎮 Gameverse  
 When I’m not coding — I’m probably chasing frames, exploring lore, or tweaking shaders in-game.  
 
@@ -102,4 +111,3 @@ When I’m not coding — I’m probably chasing frames, exploring lore, or twea
 ---
 
 [![](https://visitcount.itsvg.in/api?id=apraxd&icon=0&color=0)](https://visitcount.itsvg.in)
-
