@@ -1,6 +1,6 @@
 <!-- 🌌 Futuristic Banner (you can replace the GIF link below with your own) -->
 <p align="center">
-  <img src="https://i.gifer.com/76aK.gif" alt="Creative Tech Banner" width="100%" />
+  <img src="https://i.gifer.com/6vIk.gif" alt="Creative Tech Banner" width="100%" />
 </p>
 
 <p align="center">
@@ -102,3 +102,4 @@ When I’m not coding — I’m probably chasing frames, exploring lore, or twea
 ---
 
 [![](https://visitcount.itsvg.in/api?id=apraxd&icon=0&color=0)](https://visitcount.itsvg.in)
+
